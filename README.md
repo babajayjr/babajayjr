@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Shuraihu 👋
 
-<!--
-**babajayjr/babajayjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student
 
-Here are some ideas to get you started:
+I am a cybersecurity student passionate about network security, ethical hacking, artificial intelligence, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+- JARVIS AI Assistant
+- Cybersecurity Labs
+- Python Projects
+- Networking Projects
+
+## 📚 Currently Learning
+
+- Network Security
+- Linux Administration
+- Python Development
+- Ethical Hacking
+- AI Systems
+
+## 🛠 Technologies
+
+- Python
+- Linux
+- Git
+- GitHub
+- Networking
+- Cybersecurity
+
+## 🎯 Goals
+
+- Build JARVIS into a powerful AI assistant
+- Earn industry cybersecurity certifications
+- Contribute to open-source projects
+- Develop practical security skills
+- Build innovative AI systems
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
+
+> Learn. Build. Secure. Repeat.
